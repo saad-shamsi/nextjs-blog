@@ -22,6 +22,10 @@ a:hover {
 }
 
 img {
-  max-width: 100%;
-  display: block;
+  max-width: 220px;
+  width:100%;
+ 
+  border-radius: 100px;
+
+ 
 }
